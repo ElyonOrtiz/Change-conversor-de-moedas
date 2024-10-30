@@ -41,7 +41,7 @@ Adicione a seguinte dependência ao arquivo `pom.xml`:
 1. Localize o arquivo DadosDaAPI.java.
 2. Substitua ef7277df487ebf3bae0012be pela sua própria chave de API no seguinte trecho de código:
 
-#### xecução
+#### Execução
 
 1.  Clone o repositório ou copie os arquivos para o seu ambiente de desenvolvimento.
 2.  Compile o projeto:
